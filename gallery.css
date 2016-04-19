@@ -73,6 +73,7 @@ p {
 .case-study__img {
   width: 90%;
   display: block;
+  position: absolute;
   margin-top: 50%;
   transform: translateY(50%);
   margin: 0 auto;
